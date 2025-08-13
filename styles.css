@@ -1,6 +1,17 @@
+back{
+    color: pink;
+}
+
 .header{
-    color: blue;
-    font-size: 24px;
+    color: skyblue;
+    font-size: 30px;
     text-align: center;
     margin-top: 20px;
+}
+
+.subheader{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 25px;
 }

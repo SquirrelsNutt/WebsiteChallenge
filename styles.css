@@ -22,3 +22,25 @@ body{
     text-align: center;
     margin: auto;
 }
+
+.container{
+    background-color: purple;
+    border: 1px solid black;
+}
+
+.listbox{
+    background-color: gold;
+    border: 1px solid black;
+    margin: 10px; 
+    text-align: left;
+}
+
+.orderedlist{
+    color: purple;
+    font-size: 40px;
+}
+
+.unorderedlist{
+    color: purple;
+    font-size: 40px;
+}
